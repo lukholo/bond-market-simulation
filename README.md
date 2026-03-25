@@ -154,6 +154,3 @@ This project builds intuition through construction rather than abstraction.
 
 MIT License (can be updated later)
 
----
-
-Once you add this, your repo already reads like a **serious quantitative finance project**.
